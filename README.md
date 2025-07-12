@@ -8,7 +8,7 @@ If you're encountering crashes, connectivity issues, or problems with specific g
 ## 🐛 Reporting a Bug
 
 1. **Check existing issues** to avoid duplicates.
-2. Click [New Issue](https://github.com/skeld-net/skeld.net-bugs/issues/new) and select the **Bug Report** template.
+2. Click [New Issue](https://github.com/skeld-net/bugs/issues/new) and select the **Bug Report** template.
 3. Fill out the form with as much detail as possible:
    - What happened?
    - What did you expect to happen?
@@ -20,7 +20,7 @@ If you're encountering crashes, connectivity issues, or problems with specific g
 
 ## 🚫 What *not* to use this repo for
 
-- Feature requests (submit those [here](https://github.com/YOUR-USERNAME/skeld-net-requests) if supported)
+- Feature requests
 - General questions or support
 - Modding help or tutorial requests
 
