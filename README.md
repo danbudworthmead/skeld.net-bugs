@@ -28,7 +28,7 @@ If you're encountering crashes, connectivity issues, or problems with specific g
 
 ## 💬 Community & Support
 
-- Join our Discord: [https://discord.gg/skeld](https://discord.gg/skeld)
+- Join our Discord: [https://discord.gg/B2Cj6usFBa](https://discord.gg/B2Cj6usFBa)
 - Visit our website: [https://skeld.net](https://skeld.net)
 
 ---
